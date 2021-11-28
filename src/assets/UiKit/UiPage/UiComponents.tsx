@@ -1,5 +1,5 @@
 import { PropsWithChildren, useState } from 'react'
-import { useCopyToClipboard } from 'custonHooks/useCopyToClipboard'
+import { useCopyToClipboard } from 'customHooks/useCopyToClipboard'
 import UiButton from '../UIButton'
 import useUiDialog from '../UiDialog'
 import useUiPagination, { UiPagination } from '../UiPagination'
